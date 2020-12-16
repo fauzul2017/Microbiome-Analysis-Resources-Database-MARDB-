@@ -337,8 +337,90 @@ S. No	Name	Link	Domain
 336	SplinectomeR	https://github.com/RRShieldsCutler/splinectomeR	SplinectomeR Enables Group Comparisons in Longitudinal Microbiome Studies
 337			
 338			
-339			
-340			
+339	-----------------------------------------------------------------DATABASES-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+340	S.No.	Database	Links	Domain
+1	GMrepo	https://gmrepo.humangut.info/	microbiome
+2	Disbiome database	https://disbiome.ugent.be/	microbiome
+3	gutMDisorder	http://bio-annotation.cn/gutMDisorder	microbiome
+4	mockrobiota	http://caporaso-lab.github.io/mockrobiota/	microbiome
+5	MMDB	http://leb.snu.ac.kr/mmdb/	microbiome
+6	eHOMD	http://www.homd.org/	microbiome
+7	Forensic Microbiome Database (FMD)	http://fmd.jcvi.org/	microbiome
+8	ImmeDB	https://immedb.mit.edu/	microbiome
+9	Virtual Metabolic Human database	http://www.vmh.life/	microbiome
+10	MAR databases	https://mmp.sfb.uit.no/databases/	metagenome
+11	MicrobiomeDB	http://microbiomedb.org/	microbiome
+12	MetaRef	http://metaref.org/	genomics
+13	HPMCD	http://www.hpmcd.org/	microbiome
+14	mMGE	https://mgedb.comp-sysbio.org/	mobile genetic elements
+15	mVOC 2.0	http://bioinformatics.charite.de/mvoc	microbial volatiles
+16	POGO-DB	http://pogo.ece.drexel.edu/	comparisons of genomes and conserved orthologous genes
+17	dbCAN-seq	http://cys.bios.niu.edu/dbCAN_seq	a database of carbohydrate-active enzyme
+18	MASI	http://www.aiddlab.com/MASI	microbiota—active substance interactions database
+19	MVP	http://mvp.medgenius.info/	microbe–phage interaction database
+20	MEGARes 2.0	https://megares.meglab.org/	a database for classification of antimicrobial drug, biocide and metal resistance determinants in metagenomic sequence data
+21	proGenomes2	http://progenomes.embl.de/	an improved database for accurate and consistent habitat, taxonomic and functional annotations of prokaryotic genomes
+22	FOAM (Functional Ontology Assignments for Metagenomes)	http://portal.nersc.gov/project/m1317/FOAM/	a Hidden Markov Model (HMM) database with environmental focus
+23	MEGARes	https://megares.meglab.org/	an antimicrobial resistance database for high throughput sequencing
+24	AmtDB	https://amtdb.org/	a database of ancient human mitochondrial genomes
+25	HGTree	http://hgtree.snu.ac.kr/	database of horizontally transferred genes determined by tree reconciliation
+26	PHI-base	http://www.phi-base.org/	the pathogen–host interactions database
+27	SILVA	http://www.arb-silva.de/	RNA gene database
+28	BiG-FAM	https://bigfam.bioinformatics.nl/	the biosynthetic gene cluster families database
+29	ICEberg 2.0	http://db-mml.sjtu.edu.cn/ICEberg/	an updated database of bacterial integrative and conjugative elements
+30	Aging Atlas	https://bigd.big.ac.cn/aging/index	a multi-omics database for aging biology
+31	gcType	http://gctype.wdcm.org/	a high-quality type strain genome database for microbial phylogenetic and functional research
+32	Ribosomal Database Project	http://rdp.cme.msu.edu/	data and tools for high throughput rRNA analysis
+33	CARD 2020	https://card.mcmaster.ca/	antibiotic resistome surveillance with the comprehensive antibiotic resistance database
+34	INTEDE	https://idrblab.org/intede/	interactome of drug-metabolizing enzymes
+35	GIMICA	https://idrblab.org/gimica/	host genetic and immune factors shaping human microbiota
+36	curatedMetagenomicData data package	https://waldronlab.github.io/curatedMetagenomicData/	curatedMetagenomicData data package
+37	BiGG Models 2020	http://bigg.ucsd.edu/	multi-strain genome-scale models and expansion across the phylogenetic tree
+38	UNITE database	https://unite.ut.ee/	The UNITE database for molecular identification of fungi
+39	Genomes Online Database (GOLD)	https://gold.jgi.doe.gov/	catalog of genome and metagenome projects in the context of a comprehensive list of associated metadata.
+40	jMorp	https://jmorp.megabank.tohoku.ac.jp/	Japanese Multi Omics Reference Panel
+41	ITSoneDB	http://itsonedb.cloud.ba.infn.it/	a comprehensive collection of eukaryotic ribosomal RNA Internal Transcribed Spacer 1 (ITS1) sequences
+42	pVOGs	http://dmk-brain.ecn.uiowa.edu/pVOGs	Prokaryotic Virus Orthologous Groups
+43	DESM	http://www.cbrc.kaust.edu.sa/desm	portal for microbial knowledge exploration systems
+44	PortEco	http://porteco.org/	a resource for exploring bacterial biology through high-throughput data and analysis tools
+45	DGA	http://dga.nubic.northwestern.edu/	The disease and gene annotations
+46	mAML	http://lab.malab.cn/soft/mAML	an automated machine learning pipeline with a microbiome repository for human disease classification
+47	Human Oral Microbiome Database	http://www.homd.org/	oral microbe taxonomic and genomic information
+48	CNSA	http://cngb.org/cnsa	a data repository for archiving omics data
+49	FOBI	https://www.ncbi.nlm.nih.gov/nuccore/https://github.com/pcastellanoescuder/FoodBiomarkerOntology	an ontology to represent food intake data and associate it with metabolomic data
+50	MACADAM database	https://github.com/maloleboulch/MACADAM-Database	a MetAboliC pAthways DAtabase for Microbial taxonomic groups for mining potential metabolic capacities of archaeal and bacterial taxonomic groups
+51	cpnDB	dRiskKB: a large-scale disease-disease risk relationship knowledge base constructed from biomedical text	a reference database of chaperonin sequences
+52	European Nucleotide Archive	https://www.ebi.ac.uk/ena/	
+53	Sequence Read Archive (SRA)	https://www.ncbi.nlm.nih.gov/sra	
+54	GigaDB: The GigaScience Database	https://github.com/gigascience/gigadb-website	
+55	MPD	http://data.mypathogen.org/	a pathogen genome and metagenome database
+56	NutriChem 2.0	http://sbb.hku.hk/services/NutriChem-2.0/	exploring the effect of plant-based foods on human health and drug efficacy
+57	MiDAS 2.0	http://www.midasfieldguide.org/	an ecosystem-specific taxonomy and online database for the organisms of wastewater treatment systems expanded for anaerobic digester groups
+58	FARME DB	http://staff.washington.edu/jwallace/farme	a functional antibiotic resistance element database
+59	MAHMI database	http://mahmi.org/	a comprehensive MetaHit-based resource for the study of the mechanism of action of the human microbiota
+60	myPhyloDB	http://www.myphylodb.org/	a local web server for the storage and analysis of metagenomic data
+61	MiDAS	http://www.midasfieldguide.org/	the field guide to the microbes of activated sludge
+62	Human metabolic atlas	http://www.metabolicatlas.org/	an online resource for human metabolism
+63	DEOP	http://www.cbrc.kaust.edu.sa/deop/	a database on osmoprotectants and associated pathways
+64	MetaProx	http://metaprox.uwaterloo.ca/	the database of metagenomic proximons
+65	ReprDB and panDB		minimalist databases with maximal microbial representation
+66	MICHELINdb	http://www.michelindb.com/	a web-based tool for mining of helminth-microbiota interaction datasets, and a meta-analysis of current research
+67	ResCap	https://github.com/valflanza/ResCap	In-depth resistome analysis by targeted metagenomics
+68	ITS2 rDNA	https://doi.org/10.5281/zenodo.3235802	A database for ITS2 sequences from nematodes
+69	dRiskKB:	http://nlp.case.edu/public/data/dRiskKB	a large-scale disease-disease risk relationship knowledge base constructed from biomedical text
+70	GSA	http://gsa.big.ac.cn/	Useful websites or tools for reproducible analysis
+71	Qiita	https://qiita.ucsd.edu/	Useful websites or tools for reproducible analysis
+72	MGnify	https://www.ebi.ac.uk/metagenomics	Useful websites or tools for reproducible analysis
+73	gcMeta	https://gcmeta.wdcm.org/	Useful websites or tools for reproducible analysis
+74	R Markdown	https://rmarkdown.rstudio.com/	Useful websites or tools for reproducible analysis
+75	R Graph Gallery	https://www.r-graph-gallery.com/	Useful websites or tools for reproducible analysis
+76	GitHub	https://github.com/	Useful websites or tools for reproducible analysis
+77	Unified Human Gastrointestinal Protein (UHGP) catalog	http://ftp.ebi.ac.uk/pub/databases/metagenomics/mgnify_genomes/	A unified catalog of 204,938 reference genomes from the human gut microbiome
+78	Microbiome Learning Repo (ML Repo)	https://knights-lab.github.io/MLRepo/	A public repository of microbiome regression and classification tasks
+79	PERFect	https://github.com/katiasmirn/PERFect	PERmutation Filtering test for microbiome data
+80	Novel taxonomy-independent deep learning microbiome approach allows for accurate classification of different forensically relevant human epithelial materials	https://www.erasmusmc.nl/genetic_identification/resources/	Novel taxonomy-independent deep learning microbiome approach allows for accurate classification of different forensically relevant human epithelial materials
+81	MiDAS 2.0	http://www.midasfieldguide.org/	an ecosystem-specific taxonomy and online database for the organisms of wastewater treatment systems expanded for anaerobic digester groups
 341			
 342			
 343			
